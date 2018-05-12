@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32233'
     url: http://www.gutenberg.org/2009/agents/32233
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26777#A-Revolu--o-Portugueza--O-5-de-Outubro--Lisboa-1910-
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2008-10-04'
 gutenberg_type: Text
