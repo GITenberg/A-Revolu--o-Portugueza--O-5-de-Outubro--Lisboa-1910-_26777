@@ -1,0 +1,28 @@
+_repo: A-Revolu--o-Portugueza--O-5-de-Outubro--Lisboa-1910-_26777
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abreu, Francisco Jorge de
+    alias: Abreu, Jorge de
+    birthdate: 1878
+    deathdate: 1932
+    gutenberg_agent_id: '32233'
+    url: http://www.gutenberg.org/2009/agents/32233
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2008-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26777'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Portugal -- History -- Revolution, 1910'
+title: 'A Revolução Portugueza: O 5 de Outubro (Lisboa 1910)'
+url: http://www.gutenberg.org/ebooks/26777
